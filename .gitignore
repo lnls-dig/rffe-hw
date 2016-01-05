@@ -3,8 +3,13 @@
 *History
 *_Previews
 *.LOG
-Project Outputs*
-Project Logs*
+*Project Outputs*
+*Project Logs*
+*gerbers*
+*.outjob
+*.prjPcbStructure
+*.Dat
+*.PcbLib
 
 # Windows image file caches
 Thumbs.db

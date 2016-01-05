@@ -29,16 +29,16 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for RFFE_Controller_v6
+OutputPath=
 
 [Document1]
-DocumentPath=SCH\RFFE_Controller.SchDoc
+DocumentPath=SCH\RFFE_Controller_v7.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -48,7 +48,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=PCB\RFFE_Controller.PcbDoc
+DocumentPath=PCB\RFFE_Controller_v7.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -108,7 +108,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for RFFE_Controller_v6
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -494,15 +494,15 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=Filter
 Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration1_Name2=General
-Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=950|FormHeight=652|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=True|ShowExportOptions=True|TemplateFilename=D:\bkp\CNPEM\Altium-Bom-Template\Altium BOM Template v2.0 - Vault Compatible.xlt|BatchMode=5|FormWidth=1683|FormHeight=652|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration1_Name3=GroupOrder
 Configuration1_Item3=Comment=True|Footprint=True
 Configuration1_Name4=OutputConfigurationParameter1
 Configuration1_Item4=??
 Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Item5=Quantity=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Manufacturer=100|Manufacturer Part Number=100|Quantity=100|Supplier Part Number 1=100|Pricing=100|Pricing 1=100|Supplier Unit Price 1=100
+Configuration1_Item6=Comment=133|Description=263|Designator=85|Footprint=79|LibRef=181|Manufacturer=71|Manufacturer Part Number=230|Quantity=56|Supplier Part Number 1=34|Pricing=34|Pricing 1=34|Supplier Unit Price 1=31
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
