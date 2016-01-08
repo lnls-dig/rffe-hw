@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 OutputPath=
 
 [Document1]
-DocumentPath=SCH\RFFE_v2.SchDoc
+DocumentPath=PCB\RFFE_AC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -48,7 +48,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=PCB\RFFE_v2_AC.PcbDoc
+DocumentPath=PCB\RFFE_BD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=PCB\RFFE_v2_BD.PcbDoc
+DocumentPath=SCH\RFFE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -78,270 +78,6 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-
-[Document4]
-DocumentPath=Project Outputs for RFFE_v2\CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document5]
-DocumentPath=Project Outputs for RFFE_v2\CAMtasticDRL.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document6]
-DocumentPath=Project Outputs for RFFE_v2\CAMtastic_BD.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document7]
-DocumentPath=CAMtastic_BD_DRL.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.REP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_AC.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.G1
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.G2
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.REP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for RFFE_v2\RFFE_v2_BD.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
