@@ -32,22 +32,6 @@ ReportSuppressedErrorsInMessages=0
 OutputPath=Project Outputs for RFFE_v2
 
 [Document1]
-DocumentPath=RFFE_v2.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document2]
 DocumentPath=SCH\RFFE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,7 +47,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document3]
+[Document2]
 DocumentPath=PCB\RFFE_AC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -79,7 +63,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
+[Document3]
 DocumentPath=PCB\RFFE_BD.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,6 +78,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+
+[ProjectVariant1]
+Description=UVX
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=Ic7|UniqueId=\FCSRQVCJ|Kind=2|AlternatePart==Manufacturer Part Number
+ParamVariation1=ParameterName=Comment|VariantValue==Manufacturer Part Number
+ParamDesignator1=Ic7
+ParamVariation2=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator2=Ic7
+ParamVariation3=ParameterName=ComponentLink1URL|VariantValue=http://www.taisaw.com/upload/product/TA1113A%20_Rev.1.0_.pdf
+ParamDesignator3=Ic7
+ParamVariation4=ParameterName=Description|VariantValue=TST_TA1113A
+ParamDesignator4=Ic7
+ParamVariation5=ParameterName=Manufacturer Part Number|VariantValue=TA1113A
+ParamDesignator5=Ic7
+ParamVariationCount=5
 
 [Configuration1]
 Name=Default Configuration
@@ -453,7 +455,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\phoenix\Linhas_2
+TargetPrinter=\\phoenix\LINHAS_2
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Drill
 OutputName1=Drill Drawing/Guides
