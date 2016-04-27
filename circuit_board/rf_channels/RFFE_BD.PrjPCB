@@ -67,7 +67,7 @@ GenerateClassCluster=0
 Description=UVX
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
+VariationCount=2
 Variation1=Designator=Ic7|UniqueId=\FCSRQVCJ|Kind=2|AlternatePart==Manufacturer Part Number
 ParamVariation1=ParameterName=Comment|VariantValue==Manufacturer Part Number
 ParamDesignator1=Ic7
@@ -79,7 +79,18 @@ ParamVariation4=ParameterName=Description|VariantValue=TST_TA1113A
 ParamDesignator4=Ic7
 ParamVariation5=ParameterName=Manufacturer Part Number|VariantValue=TA1113A
 ParamDesignator5=Ic7
-ParamVariationCount=5
+Variation2=Designator=Ic16|UniqueId=\JUGFQGEW|Kind=2|AlternatePart=TA1113A
+ParamVariation6=ParameterName=Comment|VariantValue=TA1113A
+ParamDesignator6=Ic16
+ParamVariation7=ParameterName=ComponentLink1Description|VariantValue=http://www.taisaw.com/upload/product/TA1113A%20_Rev.1.0_.pdf
+ParamDesignator7=Ic16
+ParamVariation8=ParameterName=ComponentLink1URL|VariantValue=http://www.taisaw.com/upload/product/TA1113A%20_Rev.1.0_.pdf
+ParamDesignator8=Ic16
+ParamVariation9=ParameterName=Description|VariantValue=TST_TA1113A
+ParamDesignator9=Ic16
+ParamVariation10=ParameterName=Manufacturer Part Number|VariantValue=TA1113A
+ParamDesignator10=Ic16
+ParamVariationCount=10
 
 [Configuration1]
 Name=Default Configuration
