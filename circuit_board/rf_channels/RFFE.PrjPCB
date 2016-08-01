@@ -107,10 +107,14 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_AC.html
+DocumentPath=Project Outputs for RFFE_v2\bom_final_RFFE_AC.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_AC.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_BD.html
 DItemRevisionGUID=
 
@@ -457,7 +461,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\phoenix\Linhas_2
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Drill
 OutputName1=Drill Drawing/Guides
@@ -533,36 +537,50 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=BOM_PartType
-OutputName1=Bill of Materials
+OutputType1=SimpleBOM
+OutputName1=Simple BOM
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType2=ComponentCrossReference
-OutputName2=Component Cross Reference Report
+OutputType2=ReportHierarchy
+OutputName2=Report Project Hierarchy
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Script
-OutputName3=Script Output
+OutputType3=SinglePinNetReporter
+OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=SimpleBOM
-OutputName4=Simple BOM
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=ReportHierarchy
-OutputName5=Report Project Hierarchy
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+Configuration4_Name2=Filter
+Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration4_Name3=General
+Configuration4_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1812|FormHeight=652|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Name4=GroupOrder
+Configuration4_Item4=
+Configuration4_Name5=OutputConfigurationParameter1
+Configuration4_Item5=??
+Configuration4_Name6=SortOrder
+Configuration4_Item6=Designator=Up|Comment=Up|Footprint=Up
+Configuration4_Name7=VisibleOrder
+Configuration4_Item7=Designator=68|Part Number=68|Description=68|Value=68|Tolerance=68|Voltage=68|Power=68|TC=68|Manufacturer=105|Manufacturer Part Number=101|Manufacturer1 Example=91|Manufacturer1 Part Number=54|Manufacturer1 ComponentHeight=134|Case=68|ComponentHeight=68|PackageDescription=44|Mounted=31|PressFit=52|SMD=57|Socket=21|Quantity=68
+OutputType5=ComponentCrossReference
+OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=SinglePinNetReporter
-OutputName6=Report Single Pin Nets
+OutputType6=Script
+OutputName6=Script Output
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
