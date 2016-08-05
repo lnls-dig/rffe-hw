@@ -107,14 +107,18 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RFFE_v2\bom_final_RFFE_AC.xls
+DocumentPath=Project Outputs for RFFE_v2\Board Information - RFFE_BD.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_AC.html
+DocumentPath=Project Outputs for RFFE_v2\bom_final_RFFE_AC.xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_AC.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_BD.html
 DItemRevisionGUID=
 
