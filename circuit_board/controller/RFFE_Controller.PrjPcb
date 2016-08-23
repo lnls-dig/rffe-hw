@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MFBARCWY
+DocumentUniqueId=WISOGENM
 
 [Document2]
 DocumentPath=RFFE_Controller.SchDoc
@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NRBDGAGQ
+DocumentUniqueId=WUHHDYYE
 
 [Document3]
 DocumentPath=RFFE_Controller.IntLib
