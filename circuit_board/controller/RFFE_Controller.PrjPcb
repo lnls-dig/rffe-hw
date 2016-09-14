@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=Project Outputs for RFFE_Controller\CAMtastic1.Cam
+DocumentPath=Project Outputs for RFFE_Controller\CAMtastic1_Controller.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Project Outputs for RFFE_Controller\CAMtasticDrill.Cam
+DocumentPath=Project Outputs for RFFE_Controller\CAMtasticDrill_Controller.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,106 +132,110 @@ DocumentPath=Project Outputs for RFFE_Controller\Design Rule Check - RFFE_Contro
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.DRR
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.EXTREP
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.G1
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.G2
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBL
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBO
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBP
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBS
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GD1
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GG1
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GKO
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM1
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM8
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM13
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM14
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM15
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GPB
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GPT
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTL
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTO
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTP
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTS
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.LDP
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.REP
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.RUL
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.REP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
+DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
 DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.TXT
 DItemRevisionGUID=
 
@@ -612,7 +616,7 @@ OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
+Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType6=Plane
 OutputName6=Power-Plane Prints
 OutputDocumentPath6=
@@ -635,6 +639,8 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=LayerStackReportView|Units=Metric
 OutputType10=Gerber X2
 OutputName10=Gerber X2 Files
 OutputDocumentPath10=
@@ -645,13 +651,15 @@ OutputName11=IPC-2581 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+Configuration11_Name1=OutputConfigurationParameter1
+Configuration11_Item1=Record=IPC2581View|IPC2581Version=B|MeasurementSystem=Metric|FloatingPointPrecision=6|IsWiseSupport=False
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908296~1,16908301~1,16908302~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908296~1,16908301~1,16908302~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
