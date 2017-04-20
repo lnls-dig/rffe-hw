@@ -106,6 +106,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document5]
+DocumentPath=Project Outputs for RFFE_v2\CAMtastic1_BD.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=Project Outputs for RFFE_v2\CAMtasticDRILL_BD.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=Project Outputs for RFFE_v2\CAMtastic1_AC.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=Project Outputs for RFFE_v2\CAMtasticDRILL_AC.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RFFE_v2\Board Information - RFFE_BD.html
 DItemRevisionGUID=
@@ -120,6 +188,222 @@ DItemRevisionGUID=
 
 [GeneratedDocument4]
 DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_BD.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.G1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.G2
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.REP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -465,83 +749,83 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Send To OneNote 2013
+TargetPrinter=Xerox Phaser 3040 (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Drill
-OutputName1=Drill Drawing/Guides
+OutputType1=Test Points
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+OutputType2=ODB
+OutputName2=ODB++ Files
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType3=Final
-OutputName3=Final Artwork Prints
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType4=CompositeDrill
-OutputName4=Composite Drill Drawing
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=IPC2581
+OutputName4=IPC-2581 Files
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType5=NC Drill
-OutputName5=NC Drill Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType6=Plane
 OutputName6=Power-Plane Prints
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType7=ODB
-OutputName7=ODB++ Files
+OutputType7=Final
+OutputName7=Final Artwork Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Test Points
-OutputName8=Test Point Report
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=Gerber
-OutputName9=Gerber Files
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType9=Drill
+OutputName9=Drill Drawing/Guides
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
-Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1,16908301~1,16908303~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908292~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
-OutputType10=Board Stack Report
-OutputName10=Report Board Stack
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType10=NC Drill
+OutputName10=NC Drill Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Gerber X2
-OutputName11=Gerber X2 Files
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
+OutputType11=CompositeDrill
+OutputName11=Composite Drill Drawing
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=IPC2581
-OutputName12=IPC-2581 Files
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908292~1,16908296~1,16908301~1,16908302~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Send To OneNote 2013
+TargetPrinter=Xerox Phaser 3040 (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
