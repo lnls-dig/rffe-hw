@@ -88,467 +88,476 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQKALWUE
 
+[Document4]
+DocumentPath=RFFE.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RFFE_v2\Board Information - RFFE_BD.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for RFFE_v2\bom_final_RFFE_AC.xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_AC.html
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_BD.html
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\mechanical_4\features
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\mechanical_8\features
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\mechanical_14\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\mid-layer_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\midlayer1\features
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect24.0157x49.0157_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect24.0157x49.0157_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect31.8898x46.8504_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect31.8898x46.8504_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect31.8898x46.8504_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect31.8898x66.9291_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect31.8898x66.9291_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect32.0157x57.0157_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect32.0157x57.0157_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect37.4016x39.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect37.4016x39.3701_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect37.4016x39.3701_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect39.8898x54.8504_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect39.8898x54.8504_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect39.8898x54.8504_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect39.8898x74.9291_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect39.8898x74.9291_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect45.4016x47.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect45.4016x47.3701_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect45.4016x47.3701_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect70.8661x40.9449_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect70.8661x40.9449_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect78.8661x48.9449_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect78.8661x48.9449_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect129.9213x41.3386_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect129.9213x41.3386_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect137.9213x49.3386_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument53]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\rect137.9213x49.3386_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\s39.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for RFFE_v2\odb\symbols\s78.7401_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument56]
 DocumentPath=Project Outputs for RFFE_v2\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument57]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument59]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument60]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument61]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.G1
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument62]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.G2
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument63]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument64]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument65]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument66]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument67]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument68]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument69]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument70]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument71]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument72]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument73]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument74]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument75]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument76]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument77]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument78]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument79]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument82]
+[GeneratedDocument80]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument83]
+[GeneratedDocument81]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument84]
+[GeneratedDocument82]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument85]
+[GeneratedDocument83]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.REP
 DItemRevisionGUID=
 
-[GeneratedDocument86]
+[GeneratedDocument84]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument87]
+[GeneratedDocument85]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_AC.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument88]
+[GeneratedDocument86]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument89]
+[GeneratedDocument87]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument90]
+[GeneratedDocument88]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.G1
 DItemRevisionGUID=
 
-[GeneratedDocument91]
+[GeneratedDocument89]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.G2
 DItemRevisionGUID=
 
-[GeneratedDocument92]
+[GeneratedDocument90]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument93]
+[GeneratedDocument91]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument94]
+[GeneratedDocument92]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument95]
+[GeneratedDocument93]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument96]
+[GeneratedDocument94]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument97]
+[GeneratedDocument95]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument98]
+[GeneratedDocument96]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument99]
+[GeneratedDocument97]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument100]
+[GeneratedDocument98]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument101]
+[GeneratedDocument99]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument102]
+[GeneratedDocument100]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument103]
+[GeneratedDocument101]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument104]
+[GeneratedDocument102]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument105]
+[GeneratedDocument103]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument106]
+[GeneratedDocument104]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument107]
+[GeneratedDocument105]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument108]
+[GeneratedDocument106]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument109]
+[GeneratedDocument107]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument110]
+[GeneratedDocument108]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument111]
+[GeneratedDocument109]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument112]
+[GeneratedDocument110]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.REP
 DItemRevisionGUID=
 
-[GeneratedDocument113]
+[GeneratedDocument111]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument114]
+[GeneratedDocument112]
 DocumentPath=Project Outputs for RFFE_v2\RFFE_BD.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument115]
+[GeneratedDocument113]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument116]
+[GeneratedDocument114]
 DocumentPath=Project Outputs for RFFE_v2\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -560,6 +569,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
+ConfigurationType=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -573,8 +583,8 @@ AddNetPins=-1
 AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
-ExportBOM=0
-TemplateFilename=
+ExportBOM=-1
+TemplateFilename=Y:\Projects\Templates Altium\Altium_Template_BOM_DIG.xlsx
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
@@ -594,6 +604,8 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
+GlobalBookmarks=0
+PrintQuality=-3
 
 [Generic_EDE]
 OutputDir=Project Outputs for RFFE_v2
@@ -843,7 +855,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Test Points
 OutputName1=Test Point Report
@@ -896,7 +908,41 @@ OutputName9=Drill Drawing/Guides
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.59|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration9_Name2=OutputConfigurationParameter2
+Configuration9_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Drill Drawing For (Bottom Layer,Top Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration9_Name3=OutputConfigurationParameter3
+Configuration9_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=BottomLayer|DLayer2=TopLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Name4=OutputConfigurationParameter4
+Configuration9_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Name5=OutputConfigurationParameter5
+Configuration9_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Name6=OutputConfigurationParameter6
+Configuration9_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical8|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Name7=OutputConfigurationParameter7
+Configuration9_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Name8=OutputConfigurationParameter8
+Configuration9_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Name9=OutputConfigurationParameter9
+Configuration9_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Name10=OutputConfigurationParameter10
+Configuration9_Item10=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Drill Guide For (Bottom Layer,Top Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration9_Name11=OutputConfigurationParameter11
+Configuration9_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=BottomLayer|DLayer2=TopLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Name12=OutputConfigurationParameter12
+Configuration9_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Name13=OutputConfigurationParameter13
+Configuration9_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Name14=OutputConfigurationParameter14
+Configuration9_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical8|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Name15=OutputConfigurationParameter15
+Configuration9_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Name16=OutputConfigurationParameter16
+Configuration9_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Name17=OutputConfigurationParameter17
+Configuration9_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 OutputType10=NC Drill
 OutputName10=NC Drill Files
 OutputDocumentPath10=
@@ -921,50 +967,50 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=BOM_PartType
-OutputName1=Bill of Materials
+OutputType1=SimpleBOM
+OutputName1=Simple BOM
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-Configuration1_Name1=ColumnNameFormat
-Configuration1_Item1=CaptionAsName
-Configuration1_Name2=Filter
-Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A1E00000001000000000003000000596573070000004D6F756E7465640106035965730000
-Configuration1_Name3=General
-Configuration1_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\Altium_Template_BOM_DIG.xlsx|BatchMode=5|FormWidth=1812|FormHeight=652|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration1_Name4=GroupOrder
-Configuration1_Item4=Part Number=True
-Configuration1_Name5=OutputConfigurationParameter1
-Configuration1_Item5=??
-Configuration1_Name6=SortOrder
-Configuration1_Item6=Part Number=Up
-Configuration1_Name7=VisibleOrder
-Configuration1_Item7=Designator=324|Part Number=523|Description=65|Value=198|Tolerance=20|Voltage=20|Power=20|TC=20|Manufacturer=30|Manufacturer Part Number=29|Manufacturer1 Example=20|Manufacturer1 Part Number=20|Manufacturer1 ComponentHeight=33|Case=20|ComponentHeight=20|PackageDescription=20|Mounted=20|PressFit=20|SMD=20|Socket=20|Quantity=20|Part Description=26
-OutputType2=ComponentCrossReference
-OutputName2=Component Cross Reference Report
+OutputType2=ReportHierarchy
+OutputName2=Report Project Hierarchy
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Script
-OutputName3=Script Output
+OutputType3=SinglePinNetReporter
+OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=SimpleBOM
-OutputName4=Simple BOM
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=ReportHierarchy
-OutputName5=Report Project Hierarchy
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+Configuration4_Name2=Filter
+Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A1E00000001000000000003000000596573070000004D6F756E7465640106035965730000
+Configuration4_Name3=General
+Configuration4_Item3=OpenExported=True|AddToProject=False|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\Altium_Template_BOM_DIG.xlsx|BatchMode=5|FormWidth=1812|FormHeight=652|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Name4=GroupOrder
+Configuration4_Item4=Part Number=True
+Configuration4_Name5=OutputConfigurationParameter1
+Configuration4_Item5=??
+Configuration4_Name6=SortOrder
+Configuration4_Item6=Part Number=Up
+Configuration4_Name7=VisibleOrder
+Configuration4_Item7=Designator=324|Part Number=523|Description=65|Value=198|Tolerance=20|Voltage=20|Power=20|TC=20|Manufacturer=30|Manufacturer Part Number=29|Manufacturer1 Example=20|Manufacturer1 Part Number=20|Manufacturer1 ComponentHeight=33|Case=20|ComponentHeight=20|PackageDescription=20|Mounted=20|PressFit=20|SMD=20|Socket=20|Quantity=20|Part Description=26
+OutputType5=ComponentCrossReference
+OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=SinglePinNetReporter
-OutputName6=Report Single Pin Nets
+OutputType6=Script
+OutputName6=Script Output
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
@@ -1242,7 +1288,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Xerox Phaser 3040 (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
