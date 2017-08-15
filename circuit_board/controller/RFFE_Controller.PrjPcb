@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for RFFE_Controller
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -61,7 +61,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -89,223 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for RFFE_Controller\Design Rule Check - RFFE_Controller.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\mechanical_8\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\mechanical_14\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\midlayer1\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\midlayer2\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for RFFE_Controller\odb\symbols\s39.3701_45\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for RFFE_Controller\odb\symbols\s78.7401_45\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for RFFE_Controller\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.G1
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.G2
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.REP
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for RFFE_Controller\RFFE_Controller.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for RFFE_Controller\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -355,7 +139,7 @@ GlobalBookmarks=0
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=Project Outputs for RFFE_Controller
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
