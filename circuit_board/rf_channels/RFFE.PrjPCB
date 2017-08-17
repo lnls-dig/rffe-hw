@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BDVVMLLY
+DocumentUniqueId=SGIWJLBR
 
 [Document2]
 DocumentPath=RFFE_BD.PcbDoc
@@ -105,12 +105,578 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=0BD5214F-3F67-4FCD-9B99-A5452F970E95
+Description=Sirius
+AllowFabrication=1
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=Ic7|UniqueId=\FCSRQVCJ|Kind=2|AlternatePart==Device|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=ICs And Semiconductors_LNLS.DbLib/Analog & Interface|AltLibLink_SymbolReference=TA1113A_TST|AltLibLink_DesignItemID=TA1114A_TST|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors_LNLS.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Analog & Interface|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TA111XA-TST|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Bonding|VariantValue=No
+ParamDesignator1=Ic7
+ParamVariation2=ParameterName=Comment|VariantValue==Device
+ParamDesignator2=Ic7
+ParamVariation3=ParameterName=ComponentHeight|VariantValue=1.4mm
+ParamDesignator3=Ic7
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=Ic7
+ParamVariation5=ParameterName=ComponentLink1Description|VariantValue=http://www.taisaw.com/upload/product/TA1113A%20_Rev.1.0_.pdf
+ParamDesignator5=Ic7
+ParamVariation6=ParameterName=ComponentLink1URL|VariantValue=http://www.taisaw.com/upload/product/TA1113A%20_Rev.1.0_.pdf
+ParamDesignator6=Ic7
+ParamVariation7=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator7=Ic7
+ParamVariation8=ParameterName=CreateDate|VariantValue=07/07/2016
+ParamDesignator8=Ic7
+ParamVariation9=ParameterName=Database Table Name|VariantValue=Analog & Interface
+ParamDesignator9=Ic7
+ParamVariation10=ParameterName=Description|VariantValue=TA1114A_TST
+ParamDesignator10=Ic7
+ParamVariation11=ParameterName=Device|VariantValue=TA1114A_TST
+ParamDesignator11=Ic7
+ParamVariation12=ParameterName=Footprint|VariantValue=TA111XA-TST
+ParamDesignator12=Ic7
+ParamVariation13=ParameterName=HelpURL|VariantValue=http://www.taisaw.com/upload/product/TA1114A%20_Rev.1.0_.pdf
+ParamDesignator13=Ic7
+ParamVariation14=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator14=Ic7
+ParamVariation15=ParameterName=LatestRevisionDate|VariantValue=07/07/2016
+ParamDesignator15=Ic7
+ParamVariation16=ParameterName=Library Reference|VariantValue=TA1114A_TST
+ParamDesignator16=Ic7
+ParamVariation17=ParameterName=Manufacturer|VariantValue=Tai-Saw Technology Co
+ParamDesignator17=Ic7
+ParamVariation18=ParameterName=Manufacturer Part Number|VariantValue=TA1114A
+ParamDesignator18=Ic7
+ParamVariation19=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator19=Ic7
+ParamVariation20=ParameterName=PackageDescription|VariantValue=TA111XA-TST Pitch 1.27mm, SMD 3.8x3.8
+ParamDesignator20=Ic7
+ParamVariation21=ParameterName=Part Description|VariantValue=SAW FILTER 503.5 MHZ
+ParamDesignator21=Ic7
+ParamVariation22=ParameterName=Part Number|VariantValue=TA1114A_TST
+ParamDesignator22=Ic7
+ParamVariation23=ParameterName=PCB3D|VariantValue= 
+ParamDesignator23=Ic7
+ParamVariation24=ParameterName=Pin Count|VariantValue=8
+ParamDesignator24=Ic7
+ParamVariation25=ParameterName=PressFit|VariantValue=No
+ParamDesignator25=Ic7
+ParamVariation26=ParameterName=Sense|VariantValue=No
+ParamDesignator26=Ic7
+ParamVariation27=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator27=Ic7
+ParamVariation28=ParameterName=Simulation|VariantValue= 
+ParamDesignator28=Ic7
+ParamVariation29=ParameterName=SMD|VariantValue=Yes
+ParamDesignator29=Ic7
+ParamVariation30=ParameterName=Socket|VariantValue=No
+ParamDesignator30=Ic7
+Variation2=Designator=Ic16|UniqueId=\JUGFQGEW|Kind=2|AlternatePart==Device|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=ICs And Semiconductors_LNLS.DbLib/Analog & Interface|AltLibLink_SymbolReference=TA1113A_TST|AltLibLink_DesignItemID=TA1114A_TST|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors_LNLS.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Analog & Interface|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=TA111XA-TST|AltLibLink_IsSameFootprint=True
+ParamVariation31=ParameterName=Bonding|VariantValue=No
+ParamDesignator31=Ic16
+ParamVariation32=ParameterName=Comment|VariantValue==Device
+ParamDesignator32=Ic16
+ParamVariation33=ParameterName=ComponentHeight|VariantValue=1.4mm
+ParamDesignator33=Ic16
+ParamVariation34=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator34=Ic16
+ParamVariation35=ParameterName=ComponentLink1Description|VariantValue=http://www.taisaw.com/upload/product/TA1113A%20_Rev.1.0_.pdf
+ParamDesignator35=Ic16
+ParamVariation36=ParameterName=ComponentLink1URL|VariantValue=http://www.taisaw.com/upload/product/TA1113A%20_Rev.1.0_.pdf
+ParamDesignator36=Ic16
+ParamVariation37=ParameterName=Component Type|VariantValue=Standard
+ParamDesignator37=Ic16
+ParamVariation38=ParameterName=CreateDate|VariantValue=07/07/2016
+ParamDesignator38=Ic16
+ParamVariation39=ParameterName=Database Table Name|VariantValue=Analog & Interface
+ParamDesignator39=Ic16
+ParamVariation40=ParameterName=Description|VariantValue=TA1114A_TST
+ParamDesignator40=Ic16
+ParamVariation41=ParameterName=Device|VariantValue=TA1114A_TST
+ParamDesignator41=Ic16
+ParamVariation42=ParameterName=Footprint|VariantValue=TA111XA-TST
+ParamDesignator42=Ic16
+ParamVariation43=ParameterName=HelpURL|VariantValue=http://www.taisaw.com/upload/product/TA1114A%20_Rev.1.0_.pdf
+ParamDesignator43=Ic16
+ParamVariation44=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator44=Ic16
+ParamVariation45=ParameterName=LatestRevisionDate|VariantValue=07/07/2016
+ParamDesignator45=Ic16
+ParamVariation46=ParameterName=Library Reference|VariantValue=TA1114A_TST
+ParamDesignator46=Ic16
+ParamVariation47=ParameterName=Manufacturer|VariantValue=Tai-Saw Technology Co
+ParamDesignator47=Ic16
+ParamVariation48=ParameterName=Manufacturer Part Number|VariantValue=TA1114A
+ParamDesignator48=Ic16
+ParamVariation49=ParameterName=Mounted|VariantValue=Yes
+ParamDesignator49=Ic16
+ParamVariation50=ParameterName=PackageDescription|VariantValue=TA111XA-TST Pitch 1.27mm, SMD 3.8x3.8
+ParamDesignator50=Ic16
+ParamVariation51=ParameterName=Part Description|VariantValue=SAW FILTER 503.5 MHZ
+ParamDesignator51=Ic16
+ParamVariation52=ParameterName=Part Number|VariantValue=TA1114A_TST
+ParamDesignator52=Ic16
+ParamVariation53=ParameterName=PCB3D|VariantValue= 
+ParamDesignator53=Ic16
+ParamVariation54=ParameterName=Pin Count|VariantValue=8
+ParamDesignator54=Ic16
+ParamVariation55=ParameterName=PressFit|VariantValue=No
+ParamDesignator55=Ic16
+ParamVariation56=ParameterName=Sense|VariantValue=No
+ParamDesignator56=Ic16
+ParamVariation57=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator57=Ic16
+ParamVariation58=ParameterName=Simulation|VariantValue= 
+ParamDesignator58=Ic16
+ParamVariation59=ParameterName=SMD|VariantValue=Yes
+ParamDesignator59=Ic16
+ParamVariation60=ParameterName=Socket|VariantValue=No
+ParamDesignator60=Ic16
+ParamVariationCount=60
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_AC.html
+DocumentPath=Project Outputs for RFFE_v2\BOM\Bill of Materials-RFFE(Sirius).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_AC.html
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_BD.html
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\mechanical_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\mechanical_8\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\mechanical_14\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\mid-layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\midlayer1\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect24.0157x49.0157_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect24.0157x49.0157_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x46.8504_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x46.8504_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x46.8504_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x66.9291_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x66.9291_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect32.0157x57.0157_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect32.0157x57.0157_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect37.4016x39.3701_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect37.4016x39.3701_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect37.4016x39.3701_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x54.8504_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x54.8504_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x54.8504_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x74.9291_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x74.9291_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect45.4016x47.3701_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect45.4016x47.3701_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect45.4016x47.3701_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect70.8661x40.9449_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect70.8661x40.9449_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect78.8661x48.9449_135\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect78.8661x48.9449_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect129.9213x41.3386_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect129.9213x41.3386_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect137.9213x49.3386_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect137.9213x49.3386_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\s39.3701_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\s78.7401_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for RFFE_v2\NC Drill\RFFE_AC.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.G1
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.G2
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.REP
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for RFFE_v2\ODB\RFFE_AC.REP
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for RFFE_v2\NC Drill\RFFE_AC.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for RFFE_v2\NC Drill\RFFE_BD.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.G1
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.G2
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.REP
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for RFFE_v2\ODB\RFFE_BD.REP
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for RFFE_v2\NC Drill\RFFE_BD.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -148,7 +714,7 @@ SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangl
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=0
-SCH_VariantName=[No Variations]
+SCH_VariantName=Sirius
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
