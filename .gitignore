@@ -54,3 +54,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+circuit_board/controller/manufacturing/BOM_RFFE_Controller_V9.pdf
+*.xlsx
+circuit_board/controller/manufacturing/RFFE_Controller_PCB_specs_v9.pdf
+*.pdf
+*.docx
