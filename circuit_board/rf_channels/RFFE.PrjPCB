@@ -236,7 +236,7 @@ ParamDesignator60=Ic16
 ParamVariationCount=60
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RFFE\Bill of Materials\Bill of Materials-RFFE.xlsx
+DocumentPath=Project Outputs for RFFE\Bill of Materials\Bill of Materials-RFFE(Sirius).xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -256,1047 +256,663 @@ DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\comp_+
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument8]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_AC.html
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for RFFE_v2\Design Rule Check - RFFE_BD.html
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\mid-layer_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\midlayer1\features
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect24.0157x49.0157_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect24.0157x49.0157_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect31.8898x46.8504_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect31.8898x46.8504_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect31.8898x46.8504_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect31.8898x66.9291_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect31.8898x66.9291_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect32.0157x57.0157_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect32.0157x57.0157_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect37.4016x39.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect37.4016x39.3701_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect37.4016x39.3701_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect39.8898x54.8504_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect39.8898x54.8504_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect39.8898x54.8504_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect39.8898x74.9291_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect39.8898x74.9291_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect45.4016x47.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect45.4016x47.3701_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect45.4016x47.3701_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect70.8661x40.9449_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect70.8661x40.9449_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect78.8661x48.9449_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect78.8661x48.9449_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect129.9213x41.3386_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect129.9213x41.3386_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect137.9213x49.3386_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\rect137.9213x49.3386_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\s39.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument53]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\symbols\s78.7401_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument56]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument57]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument59]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument60]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument61]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument62]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument63]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\mechanical_4\features
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument64]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\mechanical_8\features
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument65]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument66]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\mechanical_14\features
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument67]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument68]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\mid-layer_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument69]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\midlayer1\features
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument70]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument71]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument72]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument73]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument74]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect24.0157x49.0157_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument75]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect24.0157x49.0157_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument76]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect31.8898x46.8504_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument77]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect31.8898x46.8504_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument78]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect31.8898x46.8504_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument82]
+[GeneratedDocument79]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect31.8898x66.9291_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument83]
+[GeneratedDocument80]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect31.8898x66.9291_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument84]
+[GeneratedDocument81]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect32.0157x57.0157_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument85]
+[GeneratedDocument82]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect32.0157x57.0157_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument86]
+[GeneratedDocument83]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect37.4016x39.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument87]
+[GeneratedDocument84]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect37.4016x39.3701_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument88]
+[GeneratedDocument85]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect37.4016x39.3701_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument89]
+[GeneratedDocument86]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect39.8898x54.8504_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument90]
+[GeneratedDocument87]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect39.8898x54.8504_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument91]
+[GeneratedDocument88]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect39.8898x54.8504_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument92]
+[GeneratedDocument89]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect39.8898x74.9291_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument93]
+[GeneratedDocument90]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect39.8898x74.9291_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument94]
+[GeneratedDocument91]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect45.4016x47.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument95]
+[GeneratedDocument92]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect45.4016x47.3701_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument96]
+[GeneratedDocument93]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect45.4016x47.3701_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument97]
+[GeneratedDocument94]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect70.8661x40.9449_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument98]
+[GeneratedDocument95]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect70.8661x40.9449_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument99]
+[GeneratedDocument96]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect78.8661x48.9449_135\features
 DItemRevisionGUID=
 
-[GeneratedDocument100]
+[GeneratedDocument97]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect78.8661x48.9449_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument101]
+[GeneratedDocument98]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect129.9213x41.3386_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument102]
+[GeneratedDocument99]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect129.9213x41.3386_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument103]
+[GeneratedDocument100]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect137.9213x49.3386_225\features
 DItemRevisionGUID=
 
-[GeneratedDocument104]
+[GeneratedDocument101]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\rect137.9213x49.3386_315\features
 DItemRevisionGUID=
 
-[GeneratedDocument105]
+[GeneratedDocument102]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\s39.3701_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument106]
+[GeneratedDocument103]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\symbols\s78.7401_45\features
 DItemRevisionGUID=
 
-[GeneratedDocument107]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument108]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument109]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument110]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument111]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument112]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument113]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument114]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument115]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\mid-layer_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument116]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\midlayer1\features
-DItemRevisionGUID=
-
-[GeneratedDocument117]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument118]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument119]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument120]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument121]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect24.0157x49.0157_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument122]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect24.0157x49.0157_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument123]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x46.8504_135\features
-DItemRevisionGUID=
-
-[GeneratedDocument124]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x46.8504_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument125]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x46.8504_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument126]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x66.9291_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument127]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect31.8898x66.9291_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument128]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect32.0157x57.0157_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument129]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect32.0157x57.0157_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument130]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect37.4016x39.3701_45\features
-DItemRevisionGUID=
-
-[GeneratedDocument131]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect37.4016x39.3701_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument132]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect37.4016x39.3701_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument133]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x54.8504_135\features
-DItemRevisionGUID=
-
-[GeneratedDocument134]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x54.8504_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument135]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x54.8504_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument136]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x74.9291_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument137]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect39.8898x74.9291_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument138]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect45.4016x47.3701_45\features
-DItemRevisionGUID=
-
-[GeneratedDocument139]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect45.4016x47.3701_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument140]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect45.4016x47.3701_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument141]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect70.8661x40.9449_135\features
-DItemRevisionGUID=
-
-[GeneratedDocument142]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect70.8661x40.9449_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument143]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect78.8661x48.9449_135\features
-DItemRevisionGUID=
-
-[GeneratedDocument144]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect78.8661x48.9449_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument145]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect129.9213x41.3386_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument146]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect129.9213x41.3386_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument147]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect137.9213x49.3386_225\features
-DItemRevisionGUID=
-
-[GeneratedDocument148]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\rect137.9213x49.3386_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument149]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\s39.3701_45\features
-DItemRevisionGUID=
-
-[GeneratedDocument150]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\symbols\s78.7401_45\features
-DItemRevisionGUID=
-
-[GeneratedDocument151]
+[GeneratedDocument104]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument152]
+[GeneratedDocument105]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument153]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument154]
+[GeneratedDocument106]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument155]
+[GeneratedDocument107]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument156]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\netlists\cadnet\netlist
+[GeneratedDocument108]
+DocumentPath=Project Outputs for RFFE\Copy of Generates pick and place files\Pick Place for RFFE_AC(Sirius).txt
 DItemRevisionGUID=
 
-[GeneratedDocument157]
+[GeneratedDocument109]
+DocumentPath=Project Outputs for RFFE\Generates pick and place files\Pick Place for RFFE_BD(Sirius).txt
+DItemRevisionGUID=
+
+[GeneratedDocument110]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument158]
+[GeneratedDocument111]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument159]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument160]
+[GeneratedDocument112]
 DocumentPath=Project Outputs for RFFE\Electrical Rules Check\RFFE.html
 DItemRevisionGUID=
 
-[GeneratedDocument161]
+[GeneratedDocument113]
 DocumentPath=Project Outputs for RFFE\NC Drill Files AC\RFFE_AC.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument162]
+[GeneratedDocument114]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument163]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument164]
+[GeneratedDocument115]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.G1
 DItemRevisionGUID=
 
-[GeneratedDocument165]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.G1
-DItemRevisionGUID=
-
-[GeneratedDocument166]
+[GeneratedDocument116]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.G2
 DItemRevisionGUID=
 
-[GeneratedDocument167]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.G2
-DItemRevisionGUID=
-
-[GeneratedDocument168]
+[GeneratedDocument117]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument169]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument170]
+[GeneratedDocument118]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument171]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument172]
+[GeneratedDocument119]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument173]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument174]
+[GeneratedDocument120]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument175]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument176]
+[GeneratedDocument121]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument177]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument178]
+[GeneratedDocument122]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument179]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument180]
+[GeneratedDocument123]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument181]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument182]
+[GeneratedDocument124]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument183]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument184]
+[GeneratedDocument125]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument185]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument186]
+[GeneratedDocument126]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument187]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument188]
+[GeneratedDocument127]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument189]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument190]
+[GeneratedDocument128]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument191]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument192]
+[GeneratedDocument129]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument193]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument194]
+[GeneratedDocument130]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument195]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument196]
+[GeneratedDocument131]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument197]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument198]
+[GeneratedDocument132]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument199]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument200]
+[GeneratedDocument133]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument201]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument202]
+[GeneratedDocument134]
 DocumentPath=Project Outputs for RFFE\Design Rules Check AC\RFFE_AC.html
 DItemRevisionGUID=
 
-[GeneratedDocument203]
+[GeneratedDocument135]
 DocumentPath=Project Outputs for RFFE\NC Drill Files AC\RFFE_AC.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument204]
+[GeneratedDocument136]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.REP
 DItemRevisionGUID=
 
-[GeneratedDocument205]
+[GeneratedDocument137]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\RFFE_AC.REP
 DItemRevisionGUID=
 
-[GeneratedDocument206]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.REP
-DItemRevisionGUID=
-
-[GeneratedDocument207]
-DocumentPath=Project Outputs for RFFE_v2\ODB\RFFE_AC.REP
-DItemRevisionGUID=
-
-[GeneratedDocument208]
+[GeneratedDocument138]
 DocumentPath=Project Outputs for RFFE\Gerber Files AC\RFFE_AC.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument209]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_AC.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument210]
+[GeneratedDocument139]
 DocumentPath=Project Outputs for RFFE\NC Drill Files AC\RFFE_AC.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument211]
+[GeneratedDocument140]
 DocumentPath=Project Outputs for RFFE\NC Drill Files BD\RFFE_BD.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument212]
+[GeneratedDocument141]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument213]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument214]
+[GeneratedDocument142]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.G1
 DItemRevisionGUID=
 
-[GeneratedDocument215]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.G1
-DItemRevisionGUID=
-
-[GeneratedDocument216]
+[GeneratedDocument143]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.G2
 DItemRevisionGUID=
 
-[GeneratedDocument217]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.G2
-DItemRevisionGUID=
-
-[GeneratedDocument218]
+[GeneratedDocument144]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument219]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument220]
+[GeneratedDocument145]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument221]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument222]
+[GeneratedDocument146]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument223]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument224]
+[GeneratedDocument147]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument225]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument226]
+[GeneratedDocument148]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument227]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument228]
+[GeneratedDocument149]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument229]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument230]
+[GeneratedDocument150]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument231]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument232]
+[GeneratedDocument151]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument233]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument234]
+[GeneratedDocument152]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument235]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument236]
+[GeneratedDocument153]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument237]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument238]
+[GeneratedDocument154]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument239]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument240]
+[GeneratedDocument155]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument241]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument242]
+[GeneratedDocument156]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument243]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument244]
+[GeneratedDocument157]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument245]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument246]
+[GeneratedDocument158]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument247]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument248]
+[GeneratedDocument159]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument249]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument250]
+[GeneratedDocument160]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument251]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument252]
+[GeneratedDocument161]
 DocumentPath=Project Outputs for RFFE\Design Rules Check BD\RFFE_BD.html
 DItemRevisionGUID=
 
-[GeneratedDocument253]
+[GeneratedDocument162]
 DocumentPath=Project Outputs for RFFE\NC Drill Files BD\RFFE_BD.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument254]
+[GeneratedDocument163]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.REP
 DItemRevisionGUID=
 
-[GeneratedDocument255]
+[GeneratedDocument164]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\RFFE_BD.REP
 DItemRevisionGUID=
 
-[GeneratedDocument256]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.REP
-DItemRevisionGUID=
-
-[GeneratedDocument257]
-DocumentPath=Project Outputs for RFFE_v2\ODB\RFFE_BD.REP
-DItemRevisionGUID=
-
-[GeneratedDocument258]
+[GeneratedDocument165]
 DocumentPath=Project Outputs for RFFE\Gerber Files BD\RFFE_BD.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument259]
-DocumentPath=Project Outputs for RFFE_v2\Gerber\RFFE_BD.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument260]
+[GeneratedDocument166]
 DocumentPath=Project Outputs for RFFE\NC Drill Files BD\RFFE_BD.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument261]
+[GeneratedDocument167]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument262]
+[GeneratedDocument168]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument263]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument264]
+[GeneratedDocument169]
 DocumentPath=Project Outputs for RFFE\ODB++ Files AC\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
-[GeneratedDocument265]
+[GeneratedDocument170]
 DocumentPath=Project Outputs for RFFE\ODB++ Files BD\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument266]
-DocumentPath=Project Outputs for RFFE_v2\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
